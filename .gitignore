@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Problems/Clock factory/out/
+/Problems/Clock factory/out/production/classes/
+/Problems/Clocks/out/
+/Problems/Clocks/out/production/classes/
+/Problems/Displaying pairs/out/
+/Problems/Displaying pairs/out/production/classes/
+/Problems/Harry Potter/out/
+/Problems/Harry Potter/out/production/classes/
+/Problems/Max and Min/out/
+/Problems/Max and Min/out/production/classes/
+/Problems/Motor static factory/out/
+/Problems/Motor static factory/out/production/classes/
+/Problems/Motors/out/
+/Problems/Motors/out/production/classes/
+/Problems/Pick your team/out/
+/Problems/Pick your team/out/production/classes/
+/Problems/Robot/out/
+/Problems/Robot/out/production/classes/
+/Problems/Static factory methods for Time/out/
+/Problems/Static factory methods for Time/out/production/classes/
+/Problems/Template Method/out/
+/Problems/Template Method/out/production/classes/
+/Problems/Template Method (1)/out/
+/Problems/Template Method (1)/out/production/classes/
